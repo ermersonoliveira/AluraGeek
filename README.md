@@ -10,9 +10,7 @@ O website apresenta uma interface amigável e responsiva.
 
 ![Capa projeto](https://github.com/ermersonoliveira/AluraGeek/blob/main/img/capa-projeto.png)
 
-## Tecnologias Utilizadas:
-
-### Front-end
+## Tecnologias Utilizadas Neste Projeto Front-End
 
 #### IDE Utilizada
 
