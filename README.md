@@ -6,9 +6,9 @@ O website apresenta uma interface amigável e responsiva.
 
 
 
-[Demo do projeto]()
+[Demonstração do Projeto](https://alura-geek-red-nine.vercel.app/)
 
-![Capa projeto](https://github.com/ermersonoliveira/AluraGeek/blob/main/img/capa-projeto.png)
+![Capa do Projeto](https://github.com/ermersonoliveira/AluraGeek/blob/main/img/capa-projeto.png)
 
 ## Tecnologias Utilizadas Neste Projeto Front-End
 
